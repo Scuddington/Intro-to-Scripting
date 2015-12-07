@@ -46,7 +46,19 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Arrays.cs" />
      <Compile Include="Assets\Behavior_1.cs" />
+     <Compile Include="Assets\Classes\Classes.cs" />
+     <Compile Include="Assets\Classes\Inventory.cs" />
+     <Compile Include="Assets\Enumeration_Switch\Enumerations.cs" />
+     <Compile Include="Assets\Enumeration_Switch\Switches.cs" />
+     <Compile Include="Assets\FlyScript.cs" />
+     <Compile Include="Assets\If_Statements\If_Statements.cs" />
+     <Compile Include="Assets\If_Statements\PitandPendulum.cs" />
+     <Compile Include="Assets\Loops\DoWhileLoop.cs" />
+     <Compile Include="Assets\Loops\ForEachLoop.cs" />
+     <Compile Include="Assets\Loops\ForLoop.cs" />
+     <Compile Include="Assets\Loops\WhileLoop.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>

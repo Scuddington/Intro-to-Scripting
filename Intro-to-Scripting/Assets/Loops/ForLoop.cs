@@ -9,7 +9,7 @@ public class ForLoop : MonoBehaviour
 	{
 		for (int i = 0; i < numEnemies; i++)
 		{
-			Debug.Log ("Creating Enemy Number: " + i)
+			Debug.Log ("Creating Enemy Number: " + i);
 		}
 	}
 }
